@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on AutoDiscordRPC
-- 🌱 I’m currently learning project management.
+- 🌱 I’m currently learning project management
 
 
 
